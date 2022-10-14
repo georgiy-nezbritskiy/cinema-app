@@ -1,6 +1,7 @@
 <p align="center">
 ![logo](https://user-images.githubusercontent.com/106528887/195679263-f22c7d55-4ad4-4d22-9fe5-a4f7e117e534.jpg)
 </p>
+
 # **About**
 
 This application is a simplified version of the cinema service. It allows user registration, creating shopping cart, ordering tickets
