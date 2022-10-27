@@ -21,7 +21,7 @@ This application is a simplified version of the cinema service. It allows user r
 1. DAO
      - all database work takes place here (CRUD methods)
 2. SERVICE
-     - all business login takes place here
+     - all business logic takes place here
 3. CONTROLLER
      - all communication between the client and the server takes place here
 
